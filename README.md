@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Sonawane</h1>
-<h3 align="center">AI/ML Engineer in the making, building practical GenAI applicationstend developer from India</h3>
+<h3 align="center">AI Engineer | Building with LLMs, RAG & Generative AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-sonawane-75&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-sonawane-75" /> </p>
 
